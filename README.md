@@ -32,10 +32,9 @@ Desenvolver uma análise exploratória e um modelo de aprendizado de máquina pa
 
 ## 🚀 Como Executar
 
-### Google Colab (Recomendado)
-1. Abra o notebook no Colab via badge no topo
-2. Execute as células sequencialmente
-3. Os dados serão baixados automaticamente
+### Google Colab
+1. Abra o notebook no Colab
+2. Execute as células sequencialmente para obter os resultados
 
 ### Localmente
 ```bash
